@@ -1,0 +1,36 @@
+_repo: Napoleon-Bonaparte_3775
+creator:
+  author:
+    agent_name: Abbott, John S. C. (John Stevens Cabot)
+    aliases:
+    - Abbott, John Stevens Cabot
+    - John S. C. (John Stevens Cabot) Abbott
+    birthdate: 1805
+    deathdate: 1877
+    gutenberg_agent_id: '1298'
+    url: http://www.gutenberg.org/2009/agents/1298
+    wikipedia: http://en.wikipedia.org/wiki/John_Stevens_Cabot_Abbott
+description: Napoleon Bonaparte was born on August 15, 1769 in Ajaccio on the Mediterranean
+  island of Corsica. Through his military exploits and his ruthless efficiency, Napoleon
+  rose from obscurity to become Napoleon I, Empereur des Francais (Emperor of the
+  French). He is both a historical figure and a legend and it is sometimes difficult
+  to separate the two. The events of his life fired the imaginations of great writers,
+  film makers, and playwrights whose works have done much to create the Napoleonic
+  legend.
+gutenberg_bookshelf:
+- France
+- Napoleonic(Bookshelf)
+gutenberg_issued: '2003-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3775'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Emperors -- France -- Biography'
+- !lcc 'DC'
+- !lcsh 'Napoleon I, Emperor of the French, 1769-1821'
+title: Napoleon Bonaparte
+url: http://www.gutenberg.org/ebooks/3775
