@@ -1,5 +1,8 @@
 _repo: Napoleon-Bonaparte_3775
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Abbott, John S. C. (John Stevens Cabot)
@@ -18,6 +21,8 @@ description: Napoleon Bonaparte was born on August 15, 1769 in Ajaccio on the Me
   to separate the two. The events of his life fired the imaginations of great writers,
   film makers, and playwrights whose works have done much to create the Napoleonic
   legend.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/3775#Napoleon-Bonaparte
 gutenberg_bookshelf:
 - France
 - Napoleonic(Bookshelf)
