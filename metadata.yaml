@@ -1,5 +1,5 @@
 _repo: Napoleon-Bonaparte_3775
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -38,5 +38,6 @@ subjects:
 - !lcsh 'Emperors -- France -- Biography'
 - !lcc 'DC'
 - !lcsh 'Napoleon I, Emperor of the French, 1769-1821'
+- GITenberg
 title: Napoleon Bonaparte
 url: http://www.gutenberg.org/ebooks/3775
